@@ -212,6 +212,7 @@ export default {
   },
   methods: {
     submitButton() {
+      const myName = "My name is Hihuhihuhohu";
       this.resultDialog = false;
       const sumProd = this.prod1Val + this.prod4Val;
       this.sumProduct = sumProd;
